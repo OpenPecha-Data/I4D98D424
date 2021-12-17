@@ -1,7 +1,7 @@
 id: P004623
 initial_creation_type: ocr
 created_at: 31/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 11:44:59.432380
 source_metadata:
   id: bdr:W22380
   title: དམིགས་བརྩེ་མའི་བེའུ་བུམ
@@ -25,3 +25,5 @@ source_metadata:
       volume_number: 3
       total_pages: 664
       base_file: v003.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
